@@ -33,5 +33,5 @@
 - `cd /frontend`
 - Edit `.env` and set your api url, default - localhost:8000
 - `npm i`
-- `npn run dev`
+- `npm run dev`
 
